@@ -72,7 +72,7 @@
 				</div>
 				<div class="card-footer bg-transparent border-white">
 					<a
-						href="https://trello.com/b/uVuJJHeL/equipo-05-del-grupo-40-para-el-proyecto-tienda-generica-del-ciclo-iii-mintic"
+						href="https://github.com/Diego3185006341/restaurantes"
 						target="_blank" class="btn btn-primary">Repositorio</a>
 				</div>
 			</div>
